@@ -2,3 +2,5 @@ This is chat apploication
 emojies
 type options
 good colors
+dark mode
+video calls
